@@ -1,0 +1,62 @@
+::placeholder {
+   text-align: right;
+}
+
+img {
+   margin: 0px 8px;
+   vertical-align: middle;
+}
+
+#logo {
+   display: block;
+   margin: auto;
+}
+
+input[type=text], select {
+   width: 75%;
+   padding: 12px 20px;
+   margin: 8px 0px 9px;
+   display: inline-block;
+   border: 1px solid #ccc;
+   border-radius: 4px;
+   box-sizing: border-box;
+}
+
+input[type=submit] {
+   background-color: #7ea4d4;
+   color: white;
+   display: block;
+   padding: 14px 20px;
+   margin: 8px auto;
+   width: 60%;
+   border: none;
+   border-radius: 4px;
+   cursor: pointer;
+}
+
+input[type=submit]:hover {
+   background-color: #4d74a5;
+}
+
+.child {
+   margin: 10px auto 10px;
+   width: 60%;
+   border-radius: 5px;
+   background-color: #7ea4d4;
+}
+
+.highblock {
+   margin: auto;
+   height: 800px;
+   width: 30%;
+   background-color: #ffffff;
+   border-bottom-left-radius: 5px;
+   border-bottom-right-radius: 5px;
+}
+
+html, body {
+   background-color: #cbe1ff;
+   height: 100%;
+   width: 100%;
+   margin: 0;
+}
