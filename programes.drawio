@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T20:29:24.059Z" agent="5.0 (Windows)" etag="VckXBF7-v1GG30hjn60Q" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-29T20:29:42.905Z" agent="5.0 (Windows)" etag="sSXsImD-XK2p3gXyXp87" version="14.7.3" type="github">
   <diagram id="v1MML3pD3iU6FN-0QKCX" name="Page-1">
-    <mxGraphModel dx="829" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -252,11 +252,29 @@
         <mxCell id="gzGk77P-xv0N86IO1BmV-77" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;line-height: 24.8208px ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot; class=&quot;TextRun SCXW25673797 BCX2&quot; lang=&quot;RU-RU&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;&lt;/span&gt;&lt;span class=&quot;SpellingError SCXW25673797 BCX2&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt; &lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;SpellingError SCXW25673797 BCX2&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt; &lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;j=&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;; &lt;/span&gt;&lt;span class=&quot;ContextualSpellingAndGrammarError SCXW25673797 BCX2&quot;&gt;j!&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;=0&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;; &lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;line-height: 24.8208px ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot; class=&quot;TextRun SCXW25673797 BCX2&quot; lang=&quot;RU-RU&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;j =&amp;nbsp; j / 10&lt;/span&gt;&lt;span class=&quot;ContextualSpellingAndGrammarError SCXW25673797 BCX2&quot;&gt;){&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;span class=&quot;LineBreakBlob BlobObject DragDrop SCXW25673797 BCX2&quot; style=&quot;line-height: 24.8208px ; font-family: &amp;#34;wordvisicarriagereturn_msfontservice&amp;#34; , &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span class=&quot;SCXW25673797 BCX2&quot;&gt; &lt;/span&gt;&lt;/font&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;LineBreakBlob BlobObject DragDrop SCXW25673797 BCX2&quot; style=&quot;line-height: 24.8208px ; font-family: &amp;#34;wordvisicarriagereturn_msfontservice&amp;#34; , &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;line-height: 24.8208px ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot; class=&quot;TextRun SCXW25673797 BCX2&quot; lang=&quot;RU-RU&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;&lt;/span&gt;&lt;/span&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="420" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="gzGk77P-xv0N86IO1BmV-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gzGk77P-xv0N86IO1BmV-79" target="gzGk77P-xv0N86IO1BmV-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="540" />
+              <mxPoint x="1060" y="540" />
+              <mxPoint x="1060" y="20" />
+              <mxPoint x="1160" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gzGk77P-xv0N86IO1BmV-79" value="sp = i % 10;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gzGk77P-xv0N86IO1BmV-106" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gzGk77P-xv0N86IO1BmV-107" target="gzGk77P-xv0N86IO1BmV-109">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gzGk77P-xv0N86IO1BmV-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gzGk77P-xv0N86IO1BmV-107" target="gzGk77P-xv0N86IO1BmV-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1260" y="119" />
+              <mxPoint x="1260" y="150" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gzGk77P-xv0N86IO1BmV-107" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;if ((sp != 0) &amp;amp;&amp;amp;&lt;br&gt; ((i % sp) == 0)) {}&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080.93" y="40" width="158.75" height="158.75" as="geometry" />
