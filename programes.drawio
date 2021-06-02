@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T07:49:09.817Z" agent="5.0 (Windows)" etag="nDVdev5GW5qRK4tycLQJ" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T07:52:31.930Z" agent="5.0 (Windows)" etag="Ez1AoZ_b-h7ZyI2HyZB0" version="14.7.3" type="github">
   <diagram id="v1MML3pD3iU6FN-0QKCX" name="Page-1">
-    <mxGraphModel dx="1414" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1002" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -543,10 +543,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2mfLu-Wdpt2xJ0irWC6N-3" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2430" y="60" width="120" height="80" as="geometry" />
+          <mxGeometry x="2420" y="39.379999999999995" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2mfLu-Wdpt2xJ0irWC6N-5" value="ввод k,l;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2430" y="160" width="120" height="40" as="geometry" />
+        <mxCell id="2mfLu-Wdpt2xJ0irWC6N-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2mfLu-Wdpt2xJ0irWC6N-5" target="2mfLu-Wdpt2xJ0irWC6N-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2mfLu-Wdpt2xJ0irWC6N-5" value="&lt;div&gt;ввод k,l *p;&lt;/div&gt;&lt;div&gt;p = NULL;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="139.38" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2mfLu-Wdpt2xJ0irWC6N-6" value="create_mas(int k, l) {}" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2969.38" y="1" width="120" height="40" as="geometry" />
@@ -652,7 +655,39 @@
           <mxGeometry x="2970.6200000000003" y="930" width="119.37" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2mfLu-Wdpt2xJ0irWC6N-32" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2611.55" y="700" width="120" height="80" as="geometry" />
+          <mxGeometry x="2421" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2mfLu-Wdpt2xJ0irWC6N-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2mfLu-Wdpt2xJ0irWC6N-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2480" y="259.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2mfLu-Wdpt2xJ0irWC6N-34" value="*p = create_mas(int k, l) {}" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="199.38" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2mfLu-Wdpt2xJ0irWC6N-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2mfLu-Wdpt2xJ0irWC6N-35" target="2mfLu-Wdpt2xJ0irWC6N-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2mfLu-Wdpt2xJ0irWC6N-35" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;line-height: 24.8208px ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot; class=&quot;TextRun SCXW25673797 BCX2&quot; lang=&quot;RU-RU&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;&lt;/span&gt;&lt;span class=&quot;SpellingError SCXW25673797 BCX2&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt; &lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;SpellingError SCXW25673797 BCX2&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt; &lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;i=&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;k&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;; &lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;line-height: 24.8208px ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot; class=&quot;TextRun SCXW25673797 BCX2&quot; lang=&quot;RU-RU&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;p[&lt;/span&gt;&lt;span class=&quot;ContextualSpellingAndGrammarError SCXW25673797 BCX2&quot;&gt;i]&amp;lt;&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;=l&lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;; &lt;/span&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;i+&lt;/span&gt;&lt;span class=&quot;ContextualSpellingAndGrammarError SCXW25673797 BCX2&quot;&gt;+){&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;span class=&quot;LineBreakBlob BlobObject DragDrop SCXW25673797 BCX2&quot; style=&quot;line-height: 24.8208px ; font-family: &amp;#34;wordvisicarriagereturn_msfontservice&amp;#34; , &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span class=&quot;SCXW25673797 BCX2&quot;&gt; &lt;/span&gt;&lt;/font&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;LineBreakBlob BlobObject DragDrop SCXW25673797 BCX2&quot; style=&quot;line-height: 24.8208px ; font-family: &amp;#34;wordvisicarriagereturn_msfontservice&amp;#34; , &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;line-height: 24.8208px ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif&quot; class=&quot;TextRun SCXW25673797 BCX2&quot; lang=&quot;RU-RU&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW25673797 BCX2&quot;&gt;&lt;/span&gt;&lt;/span&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="260.38" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2mfLu-Wdpt2xJ0irWC6N-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2mfLu-Wdpt2xJ0irWC6N-38" target="2mfLu-Wdpt2xJ0irWC6N-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2mfLu-Wdpt2xJ0irWC6N-38" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;line-height: 23.7417px ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;consolas_embeddedfont&amp;#34; , &amp;#34;consolas_msfontservice&amp;#34; , monospace&quot; class=&quot;TextRun  BCX2 SCXW214555006&quot; lang=&quot;RU-RU&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX2 SCXW214555006&quot;&gt;&lt;/span&gt;&lt;span class=&quot;SpellingError  BCX2 SCXW214555006&quot;&gt;std&lt;/span&gt;&lt;span class=&quot;NormalTextRun  BCX2 SCXW214555006&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;SpellingError  BCX2 SCXW214555006&quot;&gt;cout&lt;/span&gt;&lt;span class=&quot;NormalTextRun  BCX2 SCXW214555006&quot;&gt; &lt;/span&gt;&lt;span class=&quot;ContextualSpellingAndGrammarError  BCX2 SCXW214555006&quot;&gt;&amp;lt;&amp;lt; &lt;/span&gt;&lt;span class=&quot;ContextualSpellingAndGrammarError  BCX2 SCXW214555006&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;NormalTextRun  BCX2 SCXW214555006&quot;&gt;[i] &lt;/span&gt;&lt;span class=&quot;NormalTextRun  BCX2 SCXW214555006&quot;&gt;&amp;lt;&amp;lt; &lt;/span&gt;&lt;span class=&quot;SpellingError  BCX2 SCXW214555006&quot;&gt;endl&lt;/span&gt;&lt;span class=&quot;NormalTextRun  BCX2 SCXW214555006&quot;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;span class=&quot;LineBreakBlob BlobObject DragDrop  BCX2 SCXW214555006&quot; style=&quot;line-height: 23.7417px ; font-family: &amp;#34;wordvisicarriagereturn_msfontservice&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;consolas_embeddedfont&amp;#34; , &amp;#34;consolas_msfontservice&amp;#34; , monospace&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span class=&quot;BCX2 SCXW214555006&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;br class=&quot;BCX2 SCXW214555006&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14pt ; line-height: 23.7417px ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;consolas_embeddedfont&amp;#34; , &amp;#34;consolas_msfontservice&amp;#34; , monospace&quot; class=&quot;TextRun  BCX2 SCXW214555006&quot; lang=&quot;RU-RU&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX2 SCXW214555006&quot;&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="319.38" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2mfLu-Wdpt2xJ0irWC6N-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2mfLu-Wdpt2xJ0irWC6N-40" target="2mfLu-Wdpt2xJ0irWC6N-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2mfLu-Wdpt2xJ0irWC6N-40" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;flipH=0;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="2420.6300000000006" y="379.38" width="119.37" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2mfLu-Wdpt2xJ0irWC6N-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2mfLu-Wdpt2xJ0irWC6N-42" target="2mfLu-Wdpt2xJ0irWC6N-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2mfLu-Wdpt2xJ0irWC6N-42" value="delete[] p;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2421" y="440.38" width="120" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
